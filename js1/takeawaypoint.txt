@@ -1,0 +1,12 @@
+When file is run it goes through 2 phase
+  => Memory Allocation
+  => Code Execution
+
+    function
+      function without return
+        sum()
+      function with return
+        let s = sum()
+
+Array is collection of value
+Object is collection of value with information
