@@ -10,3 +10,4 @@ let output = input.filter((value,i)=>{
 })
 
 console.log(output)
+// jjjjj
