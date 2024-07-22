@@ -1,0 +1,4 @@
+map 
+  use map if
+  input and output are arrays
+  and input and output length are same
